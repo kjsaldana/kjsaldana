@@ -31,7 +31,7 @@
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=git,postman,nodejs,vite,npm,pnpm,scss" />
+            <img src="https://skillicons.dev/icons?i=git,scss,postman,nodejs,vite,npm,pnpm,docker" />
         </a>
     </p>
 </span>
