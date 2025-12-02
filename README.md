@@ -36,6 +36,7 @@
     </p>
 </span>
 
+<!--
 <h4> Operating System </h4>
 <span>
     <p align="center">
@@ -54,6 +55,7 @@
     </p>
 </span>
 
+
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="#" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -66,3 +68,4 @@
         alt="notYet" height="30" width="40" /></a>
 
 <br>
+-->
