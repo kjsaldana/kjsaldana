@@ -23,27 +23,31 @@ I am also an avid reader and enjoy video games, where strategy and narrative fue
         </thead>
         <tbody>
           <tr>
-            <td>💻 <b>Languages</b></td>
-            <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,python" height="35"/></td>
+            <td>⌨️ <b>Languages</b></td>
+            <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,java" height="35"/></td>
           </tr>
           <tr>
-            <td>🏗️ <b>Frameworks</b></td>
-            <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express" height="35"/></td>
+            <td>💻 <b>Frontend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,scss" height="35"/></td>
           </tr>
           <tr>
-            <td>🗄️ <b>Databases</b></td>
-            <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,sequelize" height="35"/></td>
+            <td>☁️ <b>Backend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=nodejs,express" height="35"/></td>
           </tr>
           <tr>
-            <td>🛠️ <b>Other Tools</b></td>
-            <td><img src="https://skillicons.dev/icons?i=nodejs,git,docker,postman,vite,pnpm,scss" height="35"/></td>
+            <td>🗄️ <b>DDBB & ORM</b></td>
+            <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize" height="35"/></td>
+          </tr>
+          <tr>
+            <td>🛠️ <b>Tools</b></td>
+            <td><img src="https://skillicons.dev/icons?i=git,docker,pnpm,postman" height="35"/></td>
           </tr>
         </tbody>
       </table>
     </td>
     <td valign="top" width="50%">
       <div align="center">
-          <br>
+          <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&theme=default" alt="Top Langs" width="100%" />
         </a>
