@@ -35,7 +35,7 @@ I am also an avid reader and enjoy video games, where strategy and narrative fue
             <td><img src="https://skillicons.dev/icons?i=nodejs,express" height="35"/></td>
           </tr>
           <tr>
-            <td>🗄️ <b>DDBB & ORM</b></td>
+            <td>🗄️ <b>DB & ORM</b></td>
             <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize" height="35"/></td>
           </tr>
           <tr>
