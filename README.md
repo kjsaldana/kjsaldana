@@ -45,27 +45,15 @@ I am also an avid reader and enjoy video games, where strategy and narrative fue
         </tbody>
       </table>
     </td>
-    <td valign="top" width="50%">
-      <div align="center">
-          <br><br>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&theme=default" alt="Top Langs" width="100%" />
-        </a>
+    <td valign="middle" width="50%">
+      <div>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kjsaldana&layout=compact&theme=dark">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kjsaldana&layout=compact&theme=default">
+            <img alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kjsaldana&layout=compact&theme=default" width="100%">
+          </picture>
+          <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&theme=default" alt="Top Langs" width="100%" /> -->
       </div>
     </td>
   </tr>
 </table>
-<!--
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="#" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="notYet" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="notYet" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-        alt="notYet" height="30" width="40" /></a>
-
-<br>
--->
