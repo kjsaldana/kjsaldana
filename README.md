@@ -17,8 +17,8 @@ I am also an avid reader and enjoy video games, where strategy and narrative fue
       <table>
         <thead>
           <tr>
-            <th>Domain</th>
-            <th>Stack</th>
+            <th>Category</th>
+            <th>Technologies</th>
           </tr>
         </thead>
         <tbody>
