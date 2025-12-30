@@ -35,11 +35,11 @@ I am also an avid reader and enjoy video games, where strategy and narrative fue
                     </tr>
                     <tr>
                         <td>☁️ <b>Backend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express" height="35" /></td>
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,mongoose" height="35" /></td>
                     </tr>
                     <tr>
                         <td>🗄️ <b>Databases</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,prisma,sequelize,mongoose" height="35" /></td>
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb" height="35" /></td>
                     </tr>
                     <tr>
                         <td>🛠️ <b>Tools</b></td>
