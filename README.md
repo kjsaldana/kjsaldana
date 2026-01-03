@@ -1,13 +1,9 @@
 ### Hi, I'm Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
-
-**Web Application Development Student** with an analytical mindset forged in logistics and refined in code.
->
+>**Web Application Development Student** with an analytical mindset forged in logistics and refined in code.
 >My background as a Logistics Problem Solver taught me that every incident has a root cause and a logical solution.
 >Today, I apply that same philosophy to architect efficient, scalable, and resilient web applications.
-<br>
 
 ### Core Strengths 🎯
-
 > **Root Cause Analysis**
 > I don't just patch bugs, I perform deep dives to ensure long-term stability and system resilience.
 >
@@ -71,7 +67,6 @@
         </td>
     </tr>
 </table>
-<br>
 
 ### Beyond the Keyboard 🧑‍💻
 >In my free time, you will find me training calisthenics or swimming, disciplines that keep my mind sharp and my focus
