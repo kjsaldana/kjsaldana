@@ -57,11 +57,11 @@
             <div>
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&hide=scss&theme=dark">
+                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=dark">
                     <source media="(prefers-color-scheme: light)"
-                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&hide=scss&theme=default">
-                    <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&layout=donut&hide=scss&theme=default"
-                        alt="Top Langs" width="500vw" />
+                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default">
+                    <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default"
+                        alt="Top Langs" width="480vw" />
                 </picture>
             </div>
         </td>
