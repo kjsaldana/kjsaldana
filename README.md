@@ -31,18 +31,13 @@
                                 height="35" /></td>
                     </tr>
                     <tr>
+                        <td>☁️ <b>Backend</b></td>
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,prisma,sequelize,mongoose"
+                                height="35" /></td>
+                    </tr>
+                    <tr>
                         <td>💻 <b>Frontend</b></td>
                         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,vite,scss"
-                                height="35" /></td>
-                    </tr>
-                    <tr>
-                        <td>☁️ <b>Backend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,mongoose"
-                                height="35" /></td>
-                    </tr>
-                    <tr>
-                        <td>🗄️ <b>Databases</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb"
                                 height="35" /></td>
                     </tr>
                     <tr>
@@ -61,7 +56,7 @@
                     <source media="(prefers-color-scheme: light)"
                         srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default">
                     <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default"
-                        alt="Top Langs" width="330vw" />
+                        alt="Top Langs" width="300vw" />
                 </picture>
             </div>
         </td>
