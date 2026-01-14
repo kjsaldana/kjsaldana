@@ -52,11 +52,11 @@
             <div>
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=dark">
+                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=css%2Cscss&theme=dark">
                     <source media="(prefers-color-scheme: light)"
-                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default">
-                    <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=scss&theme=default"
-                        alt="Top Langs" width="365vw" />
+                        srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=css%2Cscss&theme=default">
+                    <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=css%2Cscss&theme=default"
+                        alt="Top Langs" width="300vw" />
                 </picture>
             </div>
         </td>
