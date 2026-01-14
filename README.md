@@ -56,7 +56,7 @@
                     <source media="(prefers-color-scheme: light)"
                         srcset="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=css%2Cscss&theme=default">
                     <img src="https://github-readme-stats-six-brown-21.vercel.app/api/top-langs/?username=kjsaldana&langs_count=6&layout=donut&hide=css%2Cscss&theme=default"
-                        alt="Top Langs" width="300vw" />
+                        alt="Top Langs" width="365vw" />
                 </picture>
             </div>
         </td>
