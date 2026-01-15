@@ -1,16 +1,14 @@
 ### Hi, I'm Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
->**Web Application Development Student** with an analytical mindset forged in logistics and refined in code.
->My background as a Logistics Problem Solver taught me that every incident has a root cause and a logical solution.
->Today, I apply that same philosophy to architect efficient, scalable, and resilient web applications.
+>**Web Application Development Student** with an analytical mindset forged in logistics and refined in code. I am dedicated to building robust and scalable Backend systems. While my professional path is centered on server-side engineering, I enjoy exploring the Frontend landscape as a hobby to sharpen my UI/UX perspective and bridge the gap between data and design.
 
-### Core Strengths 🎯
-> **Root Cause Analysis**
+### Core Strengths
+> **Root Cause Analysis:**
 > I don't just patch bugs, I perform deep dives to ensure long-term stability and system resilience.
 >
-> **Process Optimization**
-> I translate my experience solving seller escalations into writing clean, scalable code that prevents issues.
+> **Process Optimization:**
+> I translate my experience as problem solver into writing clean and scalable code that prevents issues.
 >
-> **Consistency & Discipline**
+> **Consistency & Discipline:**
 > Just like in calisthenics or swimming, I apply focused repetition to master complex technologies.
 <br>
 
