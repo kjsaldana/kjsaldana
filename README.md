@@ -25,12 +25,12 @@
                 <tbody>
                     <tr>
                         <td>⚙️ <b>Languages</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,php,python,java"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,php,java"
                                 height="35" /></td>
                     </tr>
                     <tr>
                         <td>☁️ <b>Backend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,prisma,sequelize,mongoose"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,prisma,sequelize"
                                 height="35" /></td>
                     </tr>
                     <tr>
