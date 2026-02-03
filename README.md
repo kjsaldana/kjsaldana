@@ -61,6 +61,12 @@
     </tr>
 </table>
 
+<div align="center">
+  <sub>
+    JavaScript, TypeScript, HTML, CSS, PHP, Java, PostgreSQL, MySQL, MongoDB, Express.js, Prisma, Sequelize, React, Next.js, Tailwind CSS, Vite, SCSS, Git, Docker, pnpm, Postman.
+  </sub>
+</div>
+
 ### Beyond the Keyboard 🧑‍💻
 >In my free time, you will find me training calisthenics or swimming, disciplines that keep my mind sharp and my focus
 steady.
