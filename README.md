@@ -1,15 +1,15 @@
-### Hi, I'm Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
->**Web Application Development Student** with an analytical mindset forged in logistics and refined in code. I am dedicated to building robust and scalable Backend systems. While my professional path is centered on server-side engineering, I enjoy exploring the Frontend landscape as a hobby to sharpen my UI/UX perspective and bridge the gap between data and design.
+### Hola, Soy Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+>**Estudiante de Desarrollo de Aplicaciones Web** con una mentalidad analítica forjada en la logística y perfeccionada en el código. Me dedico a construir sistemas Backend robustos y escalables. Aunque mi trayectoria profesional se centra del lado del servidor, disfruto explorando el panorama Frontend como hobby para afinar mi perspectiva de UI/UX e integrar la lógica de datos con el diseño.
 
-### Core Strengths
-> **Root Cause Analysis:**
-> I don't just patch bugs, I perform deep dives to ensure long-term stability and system resilience.
+### Fortalezas Principales
+> **Análisis de Causa Raíz:**
+> Realizo análisis profundos para asegurar la estabilidad a largo plazo y la resiliencia del sistema.
 >
-> **Process Optimization:**
-> I translate my experience as problem solver into writing clean and scalable code that prevents issues.
+> **Optimización de Procesos:**
+> Traslado mi experiencia resolviendo problemas en código limpio y escalable que previene incidencias.
 >
-> **Consistency & Discipline:**
-> Just like in calisthenics or swimming, I apply focused repetition to master complex technologies.
+> **Constancia y Disciplina:**
+> Al igual que en la calistenia o la natación, aplico la repetición enfocada para dominar tecnologías complejas.
 <br>
 
 <table align="center">
@@ -24,22 +24,22 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>⚙️ <b>Languages</b></td>
+                        <td><b>Languages</b></td>
                         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,php,java"
                                 height="35" /></td>
                     </tr>
                     <tr>
-                        <td>☁️ <b>Backend</b></td>
+                        <td><b>Backend</b></td>
                         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,prisma,sequelize"
                                 height="35" /></td>
                     </tr>
                     <tr>
-                        <td>💻 <b>Frontend</b></td>
+                        <td><b>Frontend</b></td>
                         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,vite,scss"
                                 height="35" /></td>
                     </tr>
                     <tr>
-                        <td>🛠️ <b>Tools</b></td>
+                        <td><b>Tools</b></td>
                         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,pnpm,postman"
                                 height="35" /></td>
                     </tr>
@@ -67,7 +67,6 @@
   </sub>
 </div>
 
-### Beyond the Keyboard 🧑‍💻
->In my free time, you will find me training calisthenics or swimming, disciplines that keep my mind sharp and my focus
-steady.
->I am also an avid reader and enjoy video games, where strategy and narrative fuel my creativity.
+### Más allá del teclado 🧑‍💻
+>En mi tiempo libre, me encontrarás entrenando calistenia o nadando, disciplinas que mantienen mi mente aguda y mi concentración firme.
+>También soy un lector ávido y disfruto de los videojuegos, donde la estrategia y la narrativa alimentan mi creatividad.
