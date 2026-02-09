@@ -3,10 +3,10 @@
 
 ### Fortalezas Principales
 > **Análisis de Causa Raíz:**
-> Realizo análisis profundos para asegurar la estabilidad a largo plazo y la resiliencia del sistema.
+> No me limito a parchear bugs, realizo análisis profundos para asegurar la estabilidad a largo plazo y la resiliencia del sistema.
 >
 > **Optimización de Procesos:**
-> Traslado mi experiencia resolviendo problemas en código limpio y escalable que previene incidencias.
+> Traslado mi experiencia resolviendo problemas a la escritura de código limpio y escalable que previene incidencias.
 >
 > **Constancia y Disciplina:**
 > Al igual que en la calistenia o la natación, aplico la repetición enfocada para dominar tecnologías complejas.
