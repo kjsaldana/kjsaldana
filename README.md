@@ -63,7 +63,7 @@
 
 <div align="center">
   <sub>
-    JavaScript, TypeScript, HTML, CSS, PHP, Java, PostgreSQL, MySQL, MongoDB, Express.js, Prisma, Sequelize, React, Next.js, Tailwind CSS, Vite, SCSS, Git, Docker, pnpm, Postman.
+    JavaScript, TypeScript, PHP, Java, Python, PostgreSQL, MySQL, MongoDB, Express.js, Prisma, Sequelize, React, Next.js, Tailwind CSS, Vite, SCSS, Git, Docker, pnpm, Postman.
   </sub>
 </div>
 
