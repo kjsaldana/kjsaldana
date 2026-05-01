@@ -25,7 +25,7 @@
                 <tbody>
                     <tr>
                         <td><b>Languages</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,php,java"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,php,java,python"
                                 height="35" /></td>
                     </tr>
                     <tr>
