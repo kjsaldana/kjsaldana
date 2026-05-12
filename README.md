@@ -1,6 +1,7 @@
 ### Hola, Soy Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
->**Estudiante de Desarrollo de Aplicaciones Web** con una mentalidad analítica forjada en la logística y perfeccionada en el código. Me dedico a construir sistemas Backend robustos y escalables. Aunque mi trayectoria profesional se centra del lado del servidor, disfruto explorando el panorama Frontend como hobby para afinar mi perspectiva de UI/UX e integrar la lógica de datos con el diseño.
+>**Desarrollador Backend** con una mentalidad analítica forjada en la logística y perfeccionada en el código. Me dedico a construir sistemas Backend robustos y escalables. Aunque mi trayectoria profesional se centra del lado del servidor, disfruto explorando el panorama Frontend como hobby para afinar mi perspectiva de UI/UX e integrar la lógica de datos con el diseño.
 
+<!--
 ### Fortalezas Principales
 > **Análisis de Causa Raíz:**
 > No me limito a parchear bugs, realizo análisis profundos para asegurar la estabilidad a largo plazo y la resiliencia del sistema.
@@ -11,7 +12,7 @@
 > **Constancia y Disciplina:**
 > Al igual que en la calistenia o la natación, aplico la repetición enfocada para dominar tecnologías complejas.
 <br>
-
+-->
 <table align="center">
     <tr>
         <td valign="top" width="50%">
@@ -30,17 +31,17 @@
                     </tr>
                     <tr>
                         <td><b>Backend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,prisma,sequelize"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,spring"
                                 height="35" /></td>
                     </tr>
                     <tr>
                         <td><b>Frontend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,vite,scss"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,scss"
                                 height="35" /></td>
                     </tr>
                     <tr>
                         <td><b>Tools</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,pnpm,postman"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,vite,docker,pnpm,postman"
                                 height="35" /></td>
                     </tr>
                 </tbody>
@@ -63,7 +64,7 @@
 
 <div align="center">
   <sub>
-    JavaScript, TypeScript, PHP, Java, Python, PostgreSQL, MySQL, MongoDB, Express.js, Prisma, Sequelize, React, Next.js, Tailwind CSS, Vite, SCSS, Git, Docker, pnpm, Postman.
+    JavaScript, TypeScript, PHP, Java, Python, PostgreSQL, MySQL, MongoDB, Express.js, Spring, React, Next.js, Tailwind CSS, SCSS, Git, Vite, Docker, pnpm, Postman.
   </sub>
 </div>
 
