@@ -31,7 +31,7 @@
                     </tr>
                     <tr>
                         <td><b>Backend</b></td>
-                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,spring"
+                        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,express,spring,django"
                                 height="35" /></td>
                     </tr>
                     <tr>
@@ -64,7 +64,7 @@
 
 <div align="center">
   <sub>
-    JavaScript, TypeScript, PHP, Java, Python, PostgreSQL, MySQL, MongoDB, Express.js, Spring, React, Next.js, Tailwind CSS, SCSS, Git, Vite, Docker, pnpm, Postman.
+    JavaScript, TypeScript, PHP, Java, Python, PostgreSQL, MySQL, MongoDB, Express.js, Spring, Django, React, Next.js, Tailwind CSS, SCSS, Git, Vite, Docker, pnpm, Postman.
   </sub>
 </div>
 
