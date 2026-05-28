@@ -1,5 +1,5 @@
 ### Hola, Soy Kevin Saldaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
->**Desarrollador Backend**, me dedico a construir sistemas robustos y escalables. Aunque mi trayectoria profesional se centra del lado del servidor, disfruto explorando el panorama Frontend como hobby para afinar mi perspectiva de UI/UX e integrar la lógica de datos con el diseño.
+>**Desarrollador Backend**, me dedico a construir sistemas robustos y escalables. Aunque mi trayectoria profesional se centra del lado del servidor, disfruto explorando el panorama Frontend para afinar mi perspectiva de UI/UX e integrar la lógica de datos con el diseño.
 
 <!--
 ### Fortalezas Principales
